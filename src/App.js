@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import testData from './data/data.js';
-import yesImage from './imgs/yes.jpeg';
-import noImage from './imgs/no.jpg';
+import yesImage from '../public/yes.jpeg';
+import noImage from '../public/no.jpg';
 
 
 const data = {
